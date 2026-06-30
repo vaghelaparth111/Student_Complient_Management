@@ -1,6 +1,6 @@
-# Complaint Management System
+# Student Complaint Management System
 
-A full-stack Complaint Management System for students, built with **React (Vite)**, **FastAPI**, and **MongoDB**.
+A full-stack Student Complaint Management System for students, built with **React (Vite)**, **FastAPI**, and **MongoDB**.
 
 Students can register, log in, submit complaints, and track their status. Admins can view all complaints, update their status, and delete them.
 
@@ -17,7 +17,7 @@ Students can register, log in, submit complaints, and track their status. Admins
 ## Project Structure
 
 ```
-complaint-management-system/
+student-complaint-management-system/
 ├── backend/
 │   ├── app/
 │   │   ├── database.py      # MongoDB connection
